@@ -1,5 +1,5 @@
 # README
-Complete Ruby on Rails developer
+First repo on the Complete Ruby on Rails developer course with udemy
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
